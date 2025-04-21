@@ -11,7 +11,7 @@ Hello, I'm Katrina! 🥐 ☕️
 
 **Languages**: Python, SQL, R  
 **Data Tools**: Excel, Tableau, Pandas, Seaborn, Matplotlib, Scikit-learn  
-**BI / Platforms**: Jupyter Notebook, GitHub, VS Code, Google Sheets  
+**BI / Platforms**: Jupyter Notebook, GitHub, VS Code, Google Sheets, Jedox 
 
 ---
 
