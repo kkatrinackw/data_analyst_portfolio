@@ -1,4 +1,4 @@
-# 👋 Nee Hao Ma? ("How are you?" in Cantonese) 
+# 👋 Nei Hao Maa? ("How are you?" in Cantonese) 
 
 Hello, I'm Katrina! 🥐 ☕️
 
