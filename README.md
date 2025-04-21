@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Katrina!
+# 👋 Nee Hao Ma? ("How are you?" in Cantonese) 
+
+Hello, I'm Katrina! 🥐 ☕️
 
 🎯 Business Intelligence & Data Analyst with a curious mind that loves uncovering the story behind the data.  
 📊 I enjoy solving problems, simplifying messy data, and turning insights into real-world impact.
